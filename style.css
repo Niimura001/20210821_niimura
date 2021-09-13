@@ -1,4 +1,4 @@
-h1 {
+h2 {
   color: rgb(35, 35, 155);
   font-size: 40px;
 }
@@ -21,6 +21,7 @@ div {
 }
 .header__flex ul li {
   margin-left: 20px;
+  font-size: 20px;
 }
 a {
   text-decoration: none;
@@ -44,7 +45,7 @@ a {
 
 .title {
   position: absolute;
-  top: 60%;
+  top: 50%;
   font-size: 60px;
   color: black;
 }
